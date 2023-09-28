@@ -32,7 +32,7 @@ What is the priority of this bug?
 
 ## Resolution
 
-List infomation about the bug resoltion like the the release version and date.
+List infomation about the bug resolution like the the release version and date.
 
 ## Additional Information
 
