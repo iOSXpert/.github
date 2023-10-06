@@ -40,7 +40,7 @@ What is the priority of this bug, depending on the impact?
 
 ## Resolution
 
-List infomation about the bug resoltion like the the release version and date.
+List infomation about the bug resolution like the the release version and date.
 
 ## Additional Information
 
