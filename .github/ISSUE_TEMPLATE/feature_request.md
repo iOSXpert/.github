@@ -19,19 +19,10 @@ Describe how you would like this feature to work and how it would be used.
 
 If you are already familiar with the codebase, briefly describe how you would implement the feature.
 
-## Priority
-
-What is the priority of this feature?
-
-## Implementation Date
-
-This field should be filled out after the feature has been implemented and deployed.
-
-## Release
-
-This field should be filled out after the feature has been implemented.
-Link either github or ProductCenter release here. 
-
 ## Additional Information
 
 Add any other context or screenshots about the feature request here.
+
+## Related to
+
+List of related issues.
