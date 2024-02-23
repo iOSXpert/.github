@@ -22,19 +22,10 @@ Describe how you would like this improvement to work and how it would be used.
 
 If you are already familiar with the codebase, briefly describe how you would implement the feature.
 
-## Priority
-
-What is the priority of this improvement?
-
-## Implementation Date
-
-This field should be filled out after the improvement has been implemented and deployed.
-
-## Release
-
-This field should be filled out after the improvement has been implemented.
-Link either github or ProductCenter release here. 
-
 ## Additional Information
 
 Add any other context or screenshots about the improvement request here.
+
+## Related to
+
+List of related issues.
